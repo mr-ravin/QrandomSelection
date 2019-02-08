@@ -18,3 +18,9 @@ A simple method is given to save the pictorial repreentation of quantum circuit 
 ```python
 import qrandom
 chk=qrandom.vis_circuit(8,"file_name.png") ### it saves the generalized quantum circuit for 8 participants in file_name.png file. 
+```
+
+### Installing module using PyPi:
+```python
+pip install qrandom
+```
