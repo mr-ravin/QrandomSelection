@@ -3,6 +3,10 @@ Research paper is currenty under analysis phase.
 
 Author: Ravin Kumar
 
+#### Qiskit Version:
+- ##### qiskit-terra version: 0.7.0
+- ##### qiskit-aqua version: 0.4.1
+
 - ### Create quantum circuit for 'N' participants
 Our module provides a direct method for creating quantum circuit for 'n' participants.
 ```python
