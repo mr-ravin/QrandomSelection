@@ -1,7 +1,7 @@
 # QrandomSelection
 This repository contains the source code of research paper titled: " A generalized quantum algorithm for assuring fairness in random selection among 2^n participants". Research paper is currenty under analysis phase.
 
-Author: Ravin Kumar
+Author: [Ravin Kumar](https://mr-ravin.github.io/)
 
 #### Qiskit Version:
 ##### qiskit-terra version: 0.7.0
