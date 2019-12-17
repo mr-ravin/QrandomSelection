@@ -25,4 +25,4 @@ chk=qrandom.vis_circuit(8,"file_name.png") ### it saves the generalized quantum 
 pip install qrandom
 ```
 
-#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
