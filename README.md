@@ -1,7 +1,17 @@
 # QrandomSelection
-This repository contains the source code of research paper titled: " A generalized quantum algorithm for assuring fairness in random selection among 2^n participants". Research paper is accepted at Springer Publication House, and will soon get published in IETE Springer series. 
+This repository contains the source code of research paper titled: " A generalized quantum algorithm for assuring fairness in random selection among 2^n participants". Research paper is published in SN Computer Science Springer Nature Journal, 14th march 2020.
 
 Author: [Ravin Kumar](https://mr-ravin.github.io/)
+
+Publication: 14th March 2020
+
+Publication Link: https://link.springer.com/article/10.1007/s42979-020-0091-z
+
+##### Cite as:
+```
+Kumar, R. A Generalized Quantum Algorithm for Assuring Fairness in Random Selection Among 2N Participants. 
+SN COMPUT. SCI. 1, 86 (2020). https://doi.org/10.1007/s42979-020-0091-z
+```
 
 #### Qiskit Version:
 ##### qiskit-terra version: 0.7.0
