@@ -7,6 +7,8 @@ This repository contains the source code of research paper titled: " A generaliz
 
 #### Publication Link: https://link.springer.com/article/10.1007/s42979-020-0091-z
 
+#### Doi: https://doi.org/10.1007/s42979-020-0091-z
+
 ##### Cite as:
 ```
 Kumar, R. A Generalized Quantum Algorithm for Assuring Fairness in Random Selection Among 2N Participants. 
