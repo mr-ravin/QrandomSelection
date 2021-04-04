@@ -34,7 +34,7 @@ chk=qrandom.vis_circuit(8,"file_name.png") ### it saves the generalized quantum 
 
 ![quantum circuit](https://github.com/mr-ravin/QrandomSelection/blob/master/quantum_circuit.png)
 
-Fig.1 Quantum Circuit for 8 participants.
+<b>Fig.1</b> Quantum Circuit for 8 participants.
 
 ### Installing module using PyPi:
 ```python
