@@ -39,8 +39,6 @@ def vis_circuit(total_number,file_name="circuit.png"):
         index=index+1
         index1=index
         index2=index+ 2**index_limit
-        print(index1)
-        print(index2)
         qc.ch(q[index1],q[index2])
         qc.cx(q[index2],q[index1])
   qc.measure(q,c)
