@@ -28,8 +28,8 @@ SN COMPUT. SCI. 1, 86 (2020). https://doi.org/10.1007/s42979-020-0091-z
 ### 📦 **Dependencies**
 
 ```
-qiskit-terra version: 0.7.0
-qiskit-aqua version: 0.4.1
+qiskit: 0.46.0
+pylatexenc: 2.10
 ```
 
 ---
