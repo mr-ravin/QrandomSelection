@@ -70,7 +70,7 @@ import qrandom
 qrandom.vis_circuit(8, "file_name.png")  # Saves the circuit diagram for 8 participants as file_name.png
 ```
 
-
+![fig 1](quantum_circuit.png)
 
 **Fig. 1** Quantum Circuit for 8 participants.
 
